@@ -8,3 +8,5 @@ def oxford_comma(array)
  end
 
 end
+
+print array 
